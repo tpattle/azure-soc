@@ -39,8 +39,9 @@ For the "AFTER" metrics, Network Security Groups were hardened by blocking ALL t
 ## Metrics Before Hardening / Security Controls
 
 The following table shows the metrics we measured in our insecure environment for 24 hours:
-Start Time 20-10-2024 14:20:50
-Stop Time 21-10-2024 14:20:50
+
+- Start Time 20-10-2024 14:20:50
+- Stop Time 21-10-2024 14:20:50
 
 | Metric                   | Count
 | ------------------------ | -----
@@ -51,13 +52,14 @@ Stop Time 21-10-2024 14:20:50
 
 ## Attack Maps Before Hardening / Security Controls
 
-All map queries actually returned no results due to no instances of malicious activity for the 24 hour period after hardening.```
+All map queries actually returned no results due to no instances of malicious activity for the 24 hour period after hardening.
 
 ## Metrics After Hardening / Security Controls
 
 The following table shows the metrics we measured in our environment for another 24 hours, but after we have applied security controls:
-Start Time 22-10-2024 13:53
-Stop Time 23-10-2024 14:20
+
+- Start Time 22-10-2024 13:53
+- Stop Time 23-10-2024 14:20
 
 | Metric                   | Count
 | ------------------------ | -----
