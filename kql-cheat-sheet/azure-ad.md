@@ -1,6 +1,5 @@
 # Azure Active Directory (Now Called Microsoft Entra ID)
-
-
+```
 // View Mass AAD Auth Failures
 SigninLogs
 | where ResultDescription == "Invalid username or password or Invalid on-premise username or password."
